@@ -82,7 +82,12 @@ nav ul li a:hover::after {
 .header-text h1 .pink {
     color: #ff004f;
 }
-
+.pink{
+    color: #ff004f;
+}
+.pink p{
+    color: azure;
+}
 /* ----------------------about-------------------- */
 #about {
     padding: 80px 0;
@@ -105,9 +110,12 @@ nav ul li a:hover::after {
     border-radius: 15px;
 }
 
-/* .welcome{
-    color: #ffffff;
-} */
+.welcome{
+    color: lightskyblue;
+} 
+.pink p{
+    color: red;
+}
 .about-col-2 {
     flex-basis: 60%;
 
@@ -266,6 +274,9 @@ nav ul li a:hover::after {
     font-weight: 500;
     margin-bottom: 20px;
 
+}
+.layer p{
+    margin-bottom:128px;
 }
 
 .layer a {
