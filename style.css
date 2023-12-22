@@ -241,8 +241,13 @@ nav ul li a:hover::after {
     border-radius: 10px;
     position: relative;
     overflow: hidden;
-}
+    display: flex;
+}    
+#wrk{
+    margin-left: 3rem;
+    display: flexbox;
 
+}
 .work img {
     width: 50%;
     border-radius: 10px;
