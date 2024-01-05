@@ -242,6 +242,8 @@ nav ul li a:hover::after {
     position: relative;
     overflow: hidden;
     display: flex;
+    margin-top: 2rem;
+    margin-left: 2rem;
 }    
 #wrk{
     margin-left: 3rem;
@@ -480,6 +482,6 @@ nav .fas {
 
 #msg {
     color: #61b752;
-    margin-top: -40px;
+    margin-top: 40px;
     display: block;
 }
